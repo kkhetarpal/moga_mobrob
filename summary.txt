@@ -1,0 +1,4 @@
+gbest_x = 0
+gbest_y = 0
+gbest_gen = 1
+gbest_ind = 0

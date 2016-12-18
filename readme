@@ -1,0 +1,3 @@
+usage:
+./a.out random_number port_number <input_file
+./a.out 0.234 6990 <ann_5_10_2.in
